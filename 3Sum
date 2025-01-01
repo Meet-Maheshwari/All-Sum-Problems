@@ -1,4 +1,4 @@
-// 3Sum LeetCode Q.15
+// 3Sum (LeetCode Q15)
 
 class Solution {
 public:
